@@ -1,5 +1,5 @@
 # STOCK-STOCK-PRICE-PREDICTION
-Here is an even **shorter and simpler one-paragraph version**:  This project predicts stock prices using Python by cleaning historical data, analyzing trends, and applying models like Linear Regression, ARIMA, and LSTM. It compares model accuracy using RMSE/MAE and shows actual vs predicted prices through clear visual plots. 
+This project predicts stock prices using Python by preprocessing historical data, performing visual EDA, and applying models like Linear Regression, ARIMA, and LSTM. It evaluates performance using RMSE/MAE and visualizes actual vs predicted trends through interactive plots. Key points: clean data pipeline, EDA visuals, multiple models, accuracy metrics, interactive trend comparison.
 
 🔑 Key Features
 - Data preprocessing and cleaning pipelines.
