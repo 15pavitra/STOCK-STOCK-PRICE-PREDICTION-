@@ -7,7 +7,7 @@ Here is an even **shorter and simpler one-paragraph version**:  This project pre
 - Multiple predictive models: Linear Regression, ARIMA, LSTM.
 - Evaluation metrics for performance comparison.
 - Interactive plots for trend analysis.
-- 
+
 🎯 Purpose
 This project is intended for students, researchers, and developers interested in financial data modeling. It serves as a foundation for building advanced trading or forecasting systems and can be extended with more sophisticated deep learning models for improved accuracy.
 ⚙️ Tech Stack
